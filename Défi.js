@@ -16,7 +16,7 @@ if(document.images)
   chiffre[7] = new Image(); chiffre[7].src = "images/dark green/dg7.gif";
   chiffre[8] = new Image(); chiffre[8].src = "images/dark green/dg8.gif";
   chiffre[9] = new Image(); chiffre[9].src = "images/dark green/dg9.gif";
-  Blanc = new Image(); Blanc.src = "images/red/rblanc.gif";
+  Blanc = new Image(); Blanc.src = "images/dark green/space.gif";
 }
 function Arréter() 
 {
